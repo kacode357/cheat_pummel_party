@@ -1,0 +1,303 @@
+{
+    "Version": 0,
+    "CameraSettings": {
+        "CameraMode": 0,
+        "CameraViewAngle": 90.0,
+        "CameraFov": 70.83799743652344,
+        "CameraDistance": 9.29800033569336,
+        "CameraSize": 4.0
+    },
+    "CustomSpaceSettings": {
+        "m_customSpacePrefabs": [
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "e3cae9a9-3193-427d-9bc8-4338c08793cd"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "TurretSpace Prefab",
+                    "guid": {
+                        "serializedGuid": "e3cae9a9-3193-427d-9bc8-4338c08793cd"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "large"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 78,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "adc64d84-9f19-4b13-bf87-603120fec641"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "YippeeSpace Prefab",
+                    "guid": {
+                        "serializedGuid": "adc64d84-9f19-4b13-bf87-603120fec641"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "medium"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 74,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "9613fc62-0c54-4886-a258-ee9f35a88d32"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "FuseBox Space",
+                    "guid": {
+                        "serializedGuid": "9613fc62-0c54-4886-a258-ee9f35a88d32"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "tiny"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 71,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "04b447cc-9df6-43bf-88f1-c633a5923652"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "DoorOpenSpace Prefab",
+                    "guid": {
+                        "serializedGuid": "04b447cc-9df6-43bf-88f1-c633a5923652"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "medium"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 59,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "3eb02c39-fda0-48c3-9d9a-da084c725a55"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "LandMine_Space",
+                    "guid": {
+                        "serializedGuid": "3eb02c39-fda0-48c3-9d9a-da084c725a55"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "massive"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 64,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "ce9afb01-e388-421a-99d5-57e79fe28d94"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "MineA_Space",
+                    "guid": {
+                        "serializedGuid": "ce9afb01-e388-421a-99d5-57e79fe28d94"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "tiny"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 77,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "ed532be1-9086-4c0d-90e4-835b6c928830"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "MineB_Space",
+                    "guid": {
+                        "serializedGuid": "ed532be1-9086-4c0d-90e4-835b6c928830"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "tiny"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 79,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "22215102-bad2-4c59-9ddf-011192b0e584"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "MineC_Space",
+                    "guid": {
+                        "serializedGuid": "22215102-bad2-4c59-9ddf-011192b0e584"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "tiny"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 62,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "18292539-20b9-4989-9ca4-a5fe961b04e2"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "MineD_Space",
+                    "guid": {
+                        "serializedGuid": "18292539-20b9-4989-9ca4-a5fe961b04e2"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "tiny"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 60,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "ddd3cae5-0ae0-4528-ba1f-f49a51f0a089"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "BrackenSpace",
+                    "guid": {
+                        "serializedGuid": "ddd3cae5-0ae0-4528-ba1f-f49a51f0a089"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "large"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 1,
+                    "atlasPtrIndex": 0,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "4c0722ce-5892-4094-96d6-2fee0122ce70"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "FireExit",
+                    "guid": {
+                        "serializedGuid": "4c0722ce-5892-4094-96d6-2fee0122ce70"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "medium"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 67,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "483eac08-45d6-4d3b-9559-5888a8698aab"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "LockedDoor",
+                    "guid": {
+                        "serializedGuid": "483eac08-45d6-4d3b-9559-5888a8698aab"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "tiny"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 1,
+                    "atlasPtrIndex": 0,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            }
+        ]
+    },
+    "UseCustomBoardSize": true
+}

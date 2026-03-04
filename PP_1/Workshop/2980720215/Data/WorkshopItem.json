@@ -1,0 +1,70 @@
+{
+    "Version": 0,
+    "title": "PUMMELCRAFT",
+    "description": "A Minecraft village full of surprises. Trade with villagers, travel through portals to get some treasures and beware of zombies and creepers.",
+    "language": "English",
+    "metaData": "",
+    "visibility": 0,
+    "tags": [
+        "Board",
+        "Fantasy",
+        "Meme",
+        "Medium"
+    ],
+    "isInternal": false,
+    "previewFiles": [
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "bcf444b5-91f2-4b0d-866c-d5a2de526278"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "474e9314-dcb1-444d-ae77-7c73c7715627"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "8567b2ae-15f6-4dd4-b9fd-affec73fbda4"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "49f119bf-d599-40a3-8389-74e0e05f08fb"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "49c91691-ee79-422d-aea6-badb2f56b54b"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "774893dc-28e0-4c3d-b20c-8928295ff908"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "c45f4aeb-66f6-4603-a881-d25c9794e705"
+            }
+        }
+    ],
+    "publishedFileId": 2980720215,
+    "previewImageGuid": {
+        "serializedGuid": "02a801f4-9abe-4120-bba1-865dbb7f8c0c"
+    }
+}

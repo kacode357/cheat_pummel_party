@@ -1,0 +1,50 @@
+{
+    "Version": 0,
+    "title": "Ghostly Camp",
+    "description": "Amidst the whispering pines and veiled by ethereal mist, lies a ghostly camp where shadows dance with secrets. Haunting echoes of forgotten laughter and eerie whispers of the past linger around flickering fire pits, enticing the curious to uncover its spectral mysteries.\n\nUncover the mysteries and destroy friendships on this board with Custom Board events and Creatures.\n\nBoard by Globehater1",
+    "language": "English",
+    "metaData": "",
+    "visibility": 0,
+    "tags": [
+        "Board",
+        "Dark",
+        "Magical",
+        "Colourful",
+        "Huge"
+    ],
+    "isInternal": false,
+    "previewFiles": [
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "2c744d9f-6694-4df5-a3f0-3a80510a993e"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "4e9960a6-f6b1-4776-822e-580a1b3c9803"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "759c87bf-2d88-41d2-82ea-5bbc670f4f31"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "c22a0def-91ab-42a6-8fe6-d148cfce7eb6"
+            }
+        }
+    ],
+    "publishedFileId": 3230550624,
+    "previewImageGuid": {
+        "serializedGuid": "14d40bcb-8862-4267-a63e-8b5b94c77027"
+    }
+}

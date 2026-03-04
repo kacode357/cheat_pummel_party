@@ -1,0 +1,124 @@
+
+[19:07:54.834] ------------------------------
+[19:07:54.870] MelonLoader v0.7.2 Open-Beta
+[19:07:54.873] OS: Windows 11
+[19:07:54.874] Hash Code: 9DA4175149E7EBA5F67511461A658D15CD062C287E34FC9A03B1EFC8FDC8D21C
+[19:07:54.874] ------------------------------
+[19:07:54.965] Game Type: MonoBleedingEdge
+[19:07:54.966] Game Arch: x64
+[19:07:54.966] ------------------------------
+[19:07:54.967] Command-Line: 
+[19:07:54.967] ------------------------------
+[19:07:54.967] Core::BasePath = Z:\game\vertest
+[19:07:54.967] Game::BasePath = Z:\game\vertest
+[19:07:54.968] Game::DataPath = Z:\game\vertest\PummelParty_Data
+[19:07:54.968] Game::ApplicationPath = Z:\game\vertest\PummelParty.exe
+[19:07:54.968] Runtime Type: net35
+[19:07:55.062] ------------------------------
+[19:07:55.063] Game Name: Pummel Party
+[19:07:55.063] Game Developer: Rebuilt Games
+[19:07:55.065] Unity Version: 2021.3.30f1
+[19:07:55.065] Game Version: 1.14.1j
+[19:07:55.065] ------------------------------
+
+[19:07:55.222] Preferences Loaded!
+
+[19:07:55.255] Loading UserLibs...
+[19:07:55.270] ------------------------------
+[19:07:55.281] Melon Assembly loaded: '.\UserLibs\UrGUI.dll'
+[19:07:55.281] SHA256 Hash: 'DADC3825CCD0C5016D0423F74DDFBF5F5AAE75E1457EDFAB750DBDB607934AF2'
+[19:07:55.281] ------------------------------
+[19:07:55.282] 0 UserLibs loaded.
+
+[19:07:55.283] Loading Plugins...
+[19:07:55.286] 0 Plugins loaded.
+
+
+[19:07:56.147] Loading Mods...
+[19:07:56.155] ------------------------------
+[19:07:56.158] Melon Assembly loaded: '.\Mods\SchummelPartie.dll'
+[19:07:56.158] SHA256 Hash: 'A9728FCB4C6DC689B548466245561DA9DAB82EC43B3221C59DE24D278EDC5414'
+
+[19:07:56.180] ------------------------------
+[19:07:56.181] Schummel Partie v1.0.4
+[19:07:56.181] by Lyzev
+[19:07:56.181] Assembly: SchummelPartie.dll
+[19:07:56.181] ------------------------------
+[19:07:56.181] ------------------------------
+[19:07:56.182] 1 Mod loaded.
+
+[19:07:56.190] Support Module Loaded: Z:\game\vertest\MelonLoader\Dependencies\SupportModules\Mono.dll
+[19:07:56.733] [Schummel Partie] [Loader] Loading Schummel Partie...
+[19:07:56.734] [Schummel Partie] [Loader] Initializing ModuleManager...
+[19:07:56.738] [Schummel Partie] [Module Manager] Debug loaded.
+[19:07:56.738] [Schummel Partie] [Module Manager] Force Present loaded.
+[19:07:56.739] [Schummel Partie] [Module Manager] Animal Arithmetic loaded.
+[19:07:56.746] [Schummel Partie] [Module Manager] Mystery Maze loaded.
+[19:07:56.746] [Schummel Partie] [Module Manager] Mortar Mayhem loaded.
+[19:07:56.747] [Schummel Partie] [Module Manager] Batty Batter loaded.
+[19:07:56.747] [Schummel Partie] [Module Manager] Spooky Spikes loaded.
+[19:07:56.747] [Schummel Partie] [Module Manager] Rockin Rythm loaded.
+[19:07:56.748] [Schummel Partie] [Module Manager] Pack And Pile loaded.
+[19:07:56.748] [Schummel Partie] [Module Manager] Treasure Hunt loaded.
+[19:07:56.748] [Schummel Partie] [Module Manager] Swift Shooters loaded.
+[19:07:56.748] [Schummel Partie] [Module Manager] Bomber loaded.
+[19:07:56.748] [Schummel Partie] [Module Manager] Finder loaded.
+[19:07:56.749] [Schummel Partie] [Module Manager] Barn Brawl loaded.
+[19:07:56.749] [Schummel Partie] [Module Manager] Presents loaded.
+[19:07:56.749] [Schummel Partie] [Module Manager] Selfish Stride loaded.
+[19:07:56.749] [Schummel Partie] [Module Manager] Memory Menu loaded.
+[19:07:56.749] [Schummel Partie] [Module Manager] Tanks loaded.
+[19:07:56.749] [Schummel Partie] [Module Manager] Sidestep Slope loaded.
+[19:07:56.749] [Schummel Partie] [Module Manager] Daring Dogfight loaded.
+[19:07:56.750] [Schummel Partie] [Module Manager] Elemental Mages loaded.
+[19:07:56.755] [Schummel Partie] [Module Manager] Crown Capture loaded.
+[19:07:56.755] [Schummel Partie] [Module Manager] Explosive Exchange loaded.
+[19:07:56.756] [Schummel Partie] [Module Manager] AirJump loaded.
+[19:07:56.756] [Schummel Partie] [Module Manager] Speed loaded.
+[19:07:56.757] [Schummel Partie] [Module Manager] Extra Sensory Perception loaded.
+[19:07:56.757] [Schummel Partie] [Module Manager] Graphical User Interface loaded.
+[19:07:56.759] [Schummel Partie] [Loader] Initialized ModuleManager.
+[19:07:56.759] [Schummel Partie] [Loader] Patching All
+[19:07:56.785] [Schummel Partie] [Loader] Patched All.
+[19:07:56.788] [Schummel Partie] [Loader] Initialized Animal Arithmetic.
+[19:07:56.788] [Schummel Partie] [Loader] Initialized Mystery Maze.
+[19:07:56.788] [Schummel Partie] [Loader] Initialized Mortar Mayhem.
+[19:07:56.789] [Schummel Partie] [Loader] Initialized Batty Batter.
+[19:07:56.789] [Schummel Partie] [Loader] Initialized Spooky Spikes.
+[19:07:56.789] [Schummel Partie] [Loader] Initialized Rockin Rythm.
+[19:07:56.789] [Schummel Partie] [Loader] Initialized Pack And Pile.
+[19:07:56.789] [Schummel Partie] [Loader] Initialized Treasure Hunt.
+[19:07:56.789] [Schummel Partie] [Loader] Initialized Swift Shooters.
+[19:07:56.789] [Schummel Partie] [Loader] Initialized Bomber.
+[19:07:56.789] [Schummel Partie] [Loader] Initialized Finder.
+[19:07:56.790] [Schummel Partie] [Loader] Initialized Barn Brawl.
+[19:07:56.790] [Schummel Partie] [Loader] Initialized Presents.
+[19:07:56.790] [Schummel Partie] [Loader] Initialized Selfish Stride.
+[19:07:56.790] [Schummel Partie] [Loader] Initialized Memory Menu.
+[19:07:56.790] [Schummel Partie] [Loader] Initialized Tanks.
+[19:07:56.790] [Schummel Partie] [Loader] Initialized Sidestep Slope.
+[19:07:56.790] [Schummel Partie] [Loader] Initialized Daring Dogfight.
+[19:07:56.791] [Schummel Partie] [Loader] Initialized Elemental Mages.
+[19:07:56.791] [Schummel Partie] [Loader] Initialized Crown Capture.
+[19:07:56.791] [Schummel Partie] [Loader] Initialized Explosive Exchange.
+[19:07:56.791] [Schummel Partie] [Loader] Loaded Settings.
+[19:07:56.791] [Schummel Partie] [Loader] Finished Initializing SchummelPartie in 59ms.
+[19:11:35.365] [Schummel Partie] [Animal Arithmetic] Pressed button. [1/6]
+[19:11:35.416] [Schummel Partie] [Animal Arithmetic] Pressed button. [2/6]
+[19:11:35.481] [Schummel Partie] [Animal Arithmetic] Pressed button. [3/6]
+[19:11:35.547] [Schummel Partie] [Animal Arithmetic] Pressed button. [4/6]
+[19:11:35.599] [Schummel Partie] [Animal Arithmetic] Pressed button. [5/6]
+[19:11:35.664] [Schummel Partie] [Animal Arithmetic] Pressed button. [6/6]
+[19:11:55.865] [Schummel Partie] [Animal Arithmetic] Pressed button. [1/4]
+[19:11:55.914] [Schummel Partie] [Animal Arithmetic] Pressed button. [2/4]
+[19:11:55.981] [Schummel Partie] [Animal Arithmetic] Pressed button. [3/4]
+[19:11:56.047] [Schummel Partie] [Animal Arithmetic] Pressed button. [4/4]
+[19:12:14.764] [Schummel Partie] [Animal Arithmetic] Pressed button. [1/8]
+[19:12:14.831] [Schummel Partie] [Animal Arithmetic] Pressed button. [2/8]
+[19:12:14.883] [Schummel Partie] [Animal Arithmetic] Pressed button. [3/8]
+[19:12:14.948] [Schummel Partie] [Animal Arithmetic] Pressed button. [4/8]
+[19:12:15.014] [Schummel Partie] [Animal Arithmetic] Pressed button. [5/8]
+[19:12:15.067] [Schummel Partie] [Animal Arithmetic] Pressed button. [6/8]
+[19:12:15.131] [Schummel Partie] [Animal Arithmetic] Pressed button. [7/8]
+[19:12:15.198] [Schummel Partie] [Animal Arithmetic] Pressed button. [8/8]
+[19:16:16.894] Preferences Saved!

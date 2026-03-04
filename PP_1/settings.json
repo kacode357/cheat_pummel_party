@@ -1,0 +1,247 @@
+[
+  {
+    "Container": "Debug",
+    "Name": "Enabled",
+    "Value": true
+  },
+  {
+    "Container": "Force Present",
+    "Name": "Enabled",
+    "Value": true
+  },
+  {
+    "Container": "Force Present",
+    "Name": "Action ID",
+    "Value": 1
+  },
+  {
+    "Container": "Animal Arithmetic",
+    "Name": "Enabled",
+    "Value": true
+  },
+  {
+    "Container": "Animal Arithmetic",
+    "Name": "Mode",
+    "Value": 2
+  },
+  {
+    "Container": "Mystery Maze",
+    "Name": "Enabled",
+    "Value": true
+  },
+  {
+    "Container": "Mortar Mayhem",
+    "Name": "Enabled",
+    "Value": true
+  },
+  {
+    "Container": "Batty Batter",
+    "Name": "Enabled",
+    "Value": true
+  },
+  {
+    "Container": "Spooky Spikes",
+    "Name": "Enabled",
+    "Value": true
+  },
+  {
+    "Container": "Rockin Rythm",
+    "Name": "Enabled",
+    "Value": true
+  },
+  {
+    "Container": "Pack And Pile",
+    "Name": "Enabled",
+    "Value": true
+  },
+  {
+    "Container": "Treasure Hunt",
+    "Name": "Enabled",
+    "Value": true
+  },
+  {
+    "Container": "Swift Shooters",
+    "Name": "Enabled",
+    "Value": true
+  },
+  {
+    "Container": "Bomber",
+    "Name": "Enabled",
+    "Value": true
+  },
+  {
+    "Container": "Finder",
+    "Name": "Enabled",
+    "Value": true
+  },
+  {
+    "Container": "Barn Brawl",
+    "Name": "Enabled",
+    "Value": true
+  },
+  {
+    "Container": "Barn Brawl",
+    "Name": "God Mode",
+    "Value": false
+  },
+  {
+    "Container": "Barn Brawl",
+    "Name": "Infinite Shotgun",
+    "Value": false
+  },
+  {
+    "Container": "Barn Brawl",
+    "Name": "Burst Shotgun",
+    "Value": false
+  },
+  {
+    "Container": "Barn Brawl",
+    "Name": "No Camera Shake",
+    "Value": false
+  },
+  {
+    "Container": "Presents",
+    "Name": "Enabled",
+    "Value": true
+  },
+  {
+    "Container": "Selfish Stride",
+    "Name": "Enabled",
+    "Value": true
+  },
+  {
+    "Container": "Memory Menu",
+    "Name": "Enabled",
+    "Value": true
+  },
+  {
+    "Container": "Tanks",
+    "Name": "Enabled",
+    "Value": true
+  },
+  {
+    "Container": "Tanks",
+    "Name": "Rapid Fire",
+    "Value": false
+  },
+  {
+    "Container": "Sidestep Slope",
+    "Name": "Enabled",
+    "Value": true
+  },
+  {
+    "Container": "Daring Dogfight",
+    "Name": "Enabled",
+    "Value": true
+  },
+  {
+    "Container": "Daring Dogfight",
+    "Name": "God Mode",
+    "Value": false
+  },
+  {
+    "Container": "Daring Dogfight",
+    "Name": "Kill All",
+    "Value": false
+  },
+  {
+    "Container": "Daring Dogfight",
+    "Name": "Burst Shot",
+    "Value": false
+  },
+  {
+    "Container": "Elemental Mages",
+    "Name": "Enabled",
+    "Value": true
+  },
+  {
+    "Container": "Elemental Mages",
+    "Name": "Instant Pickup Crystal (Host Only)",
+    "Value": false
+  },
+  {
+    "Container": "Elemental Mages",
+    "Name": "No Camera Shake",
+    "Value": false
+  },
+  {
+    "Container": "Crown Capture",
+    "Name": "Enabled",
+    "Value": true
+  },
+  {
+    "Container": "Crown Capture",
+    "Name": "No Stun",
+    "Value": false
+  },
+  {
+    "Container": "Crown Capture",
+    "Name": "Always Crown",
+    "Value": false
+  },
+  {
+    "Container": "Explosive Exchange",
+    "Name": "Enabled",
+    "Value": true
+  },
+  {
+    "Container": "Explosive Exchange",
+    "Name": "No Stun",
+    "Value": false
+  },
+  {
+    "Container": "Explosive Exchange",
+    "Name": "No Bomb",
+    "Value": false
+  },
+  {
+    "Container": "AirJump",
+    "Name": "Enabled",
+    "Value": false
+  },
+  {
+    "Container": "AirJump",
+    "Name": "Max Jumps",
+    "Value": 9999.0
+  },
+  {
+    "Container": "Speed",
+    "Name": "Enabled",
+    "Value": false
+  },
+  {
+    "Container": "Speed",
+    "Name": "Max Speed",
+    "Value": 7.44252872
+  },
+  {
+    "Container": "Speed",
+    "Name": "Acceleration",
+    "Value": 15.0
+  },
+  {
+    "Container": "Speed",
+    "Name": "Deceleration",
+    "Value": 15.0
+  },
+  {
+    "Container": "Speed",
+    "Name": "Air Acceleration",
+    "Value": 1.0
+  },
+  {
+    "Container": "Speed",
+    "Name": "Air Deceleration",
+    "Value": 12.0117931
+  },
+  {
+    "Container": "Extra Sensory Perception",
+    "Name": "Enabled",
+    "Value": false
+  },
+  {
+    "Container": "Graphical User Interface",
+    "Name": "Enabled",
+    "Value": false
+  }
+]

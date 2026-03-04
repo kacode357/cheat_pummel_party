@@ -1,0 +1,35 @@
+{
+    "Version": 0,
+    "title": "Fall Guys - Push Up Road",
+    "description": "Fall Guys map recreation \nA road ahead of you full of obstacles\nPunch to push each others to be the ultimate winner\n",
+    "language": "English",
+    "metaData": "",
+    "visibility": 0,
+    "tags": [
+        "Minigame",
+        "Fast-paced",
+        "Parkour",
+        "Platformer"
+    ],
+    "isInternal": false,
+    "previewFiles": [
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "2fbf7c1d-f035-4fc7-855c-e10a776a3036"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "4e1223ca-7ad5-467c-a214-c7338f2c231e"
+            }
+        }
+    ],
+    "publishedFileId": 2981119603,
+    "previewImageGuid": {
+        "serializedGuid": "e7693334-f43e-4481-bc2f-fc8cbb259e57"
+    }
+}

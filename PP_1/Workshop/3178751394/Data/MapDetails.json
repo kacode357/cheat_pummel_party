@@ -1,0 +1,88 @@
+{
+    "MapName": "Lethal Party",
+    "SceneName": "Default_Scene",
+    "Description": "a Lethal Company Inspired Pummel Party Board Mod\n\n4-8 Players Recommended\n\n2 Trophy Chest appears by default\nthis can be overriden with custom ruleset",
+    "MapExtents": {
+        "serializedVersion": "2",
+        "x": -47.5,
+        "y": -60.0,
+        "width": 125.0,
+        "height": 90.0
+    },
+    "PreviewImageGuid": {
+        "serializedGuid": "d52dae9f-8477-487a-b458-a64c84b6ef31"
+    },
+    "OverrideSpacePrefabs": false,
+    "OverrideSpace": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "SpacePrefabOverrideGuids": [
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        }
+    ],
+    "MusicGuid": {
+        "serializedGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "MusicVol": 1.0,
+    "AmbienceGuid": {
+        "serializedGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "AmbienceVol": 1.0,
+    "SupportsWeaponCache": true,
+    "UseCustomChestShuffleLocation": false,
+    "ChestShuffleLocation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "DefaultGoalChestCount": 2
+}

@@ -1,0 +1,159 @@
+{
+    "Version": 0,
+    "CameraSettings": {
+        "CameraMode": 0,
+        "CameraViewAngle": 51.43299865722656,
+        "CameraFov": 60.0,
+        "CameraDistance": 13.0,
+        "CameraSize": 5.0
+    },
+    "CustomSpaceSettings": {
+        "m_customSpacePrefabs": [
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "f5e91ce5-c725-4933-8042-16fab59fb04c"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "Nether Portal 2",
+                    "guid": {
+                        "serializedGuid": "f5e91ce5-c725-4933-8042-16fab59fb04c"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "tiny"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 19,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "74ea9701-e45d-4eea-a548-38b6ebd5ac4e"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "Nether Portal 1",
+                    "guid": {
+                        "serializedGuid": "74ea9701-e45d-4eea-a548-38b6ebd5ac4e"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "tiny"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 16,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "3204ea9b-3db4-4656-8b12-7001b2142130"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "Creeper",
+                    "guid": {
+                        "serializedGuid": "3204ea9b-3db4-4656-8b12-7001b2142130"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "tiny"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 15,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "9b814721-1b09-48c3-a8a3-4a82897c8c17"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "Villager",
+                    "guid": {
+                        "serializedGuid": "9b814721-1b09-48c3-a8a3-4a82897c8c17"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "tiny"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 17,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "21e774d8-0d89-414b-88cb-86f8cec5675b"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "Zombie",
+                    "guid": {
+                        "serializedGuid": "21e774d8-0d89-414b-88cb-86f8cec5675b"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "tiny"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 14,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "ab071d09-cef8-4530-8910-81437624796b"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "Red key",
+                    "guid": {
+                        "serializedGuid": "ab071d09-cef8-4530-8910-81437624796b"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "tiny"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 18,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            }
+        ]
+    },
+    "UseCustomBoardSize": false
+}

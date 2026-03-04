@@ -1,0 +1,468 @@
+{
+    "Version": 0,
+    "CameraSettings": {
+        "CameraMode": 0,
+        "CameraViewAngle": 35.448001861572269,
+        "CameraFov": 73.63600158691406,
+        "CameraDistance": 8.418000221252442,
+        "CameraSize": 5.857999801635742
+    },
+    "CustomSpaceSettings": {
+        "m_customSpacePrefabs": [
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "7e04a4fa-2266-470d-80ee-3a8dd1c48ac9"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "Give Trophy",
+                    "guid": {
+                        "serializedGuid": "7e04a4fa-2266-470d-80ee-3a8dd1c48ac9"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "tiny"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 2147483647,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "6eb668b1-266a-4de2-9770-ddf82b44f61e"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "Power Stones",
+                    "guid": {
+                        "serializedGuid": "6eb668b1-266a-4de2-9770-ddf82b44f61e"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "large"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 2147483647,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "1124b3ab-1b70-4e09-8384-262876cf6d65"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "Portal",
+                    "guid": {
+                        "serializedGuid": "1124b3ab-1b70-4e09-8384-262876cf6d65"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "medium"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 2147483647,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "442c0f93-cf21-4259-ab5a-2d2fb4c0dd43"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "TP to Trophy",
+                    "guid": {
+                        "serializedGuid": "442c0f93-cf21-4259-ab5a-2d2fb4c0dd43"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "small"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 2147483647,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "a88d9dcc-d468-4fbe-a679-700c2b1abedc"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "Slash",
+                    "guid": {
+                        "serializedGuid": "a88d9dcc-d468-4fbe-a679-700c2b1abedc"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "tiny"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 2147483647,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "7729667a-488f-43c2-bf90-f973ec5049c2"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "Steal Keys",
+                    "guid": {
+                        "serializedGuid": "7729667a-488f-43c2-bf90-f973ec5049c2"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "medium"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 2147483647,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "4eba79b7-b402-4e0c-b394-6d2b4fb7b4e1"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "Bone Bite",
+                    "guid": {
+                        "serializedGuid": "4eba79b7-b402-4e0c-b394-6d2b4fb7b4e1"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "medium"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 2147483647,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "fff7960a-1f6c-490b-91a7-6c114a922208"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "TP to Pugna",
+                    "guid": {
+                        "serializedGuid": "fff7960a-1f6c-490b-91a7-6c114a922208"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "small"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 2147483647,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "f3c6e47b-07c9-42f0-907b-094f1c277a0d"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "Jump R",
+                    "guid": {
+                        "serializedGuid": "f3c6e47b-07c9-42f0-907b-094f1c277a0d"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "small"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 2147483647,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "18aaf01a-e3ee-4f8d-b436-a8505f6bbc28"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "Fall-Death",
+                    "guid": {
+                        "serializedGuid": "18aaf01a-e3ee-4f8d-b436-a8505f6bbc28"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "medium"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 2147483647,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "60633c5f-a07f-4114-8978-61f317632b1c"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "Bye R",
+                    "guid": {
+                        "serializedGuid": "60633c5f-a07f-4114-8978-61f317632b1c"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "tiny"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 2147483647,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "00000000-0000-0000-0000-000000000000"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "DefaultObject",
+                    "guid": {
+                        "serializedGuid": "ab27ad87-a9bc-4bdd-b2a9-d7246a0a2dd0"
+                    },
+                    "tags": [],
+                    "assetTypeString": "",
+                    "atlasIndex": 2147483647,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "4dde710c-fa53-4c44-8bcd-99be6ee28513"
+                    },
+                    "assetFolder": "",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "d764c525-1df8-4826-97e1-b4fdc34d83bd"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "Bye L",
+                    "guid": {
+                        "serializedGuid": "d764c525-1df8-4826-97e1-b4fdc34d83bd"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "tiny"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 2147483647,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "b3af1617-598f-4395-a352-dc8665b0f0d0"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "Home",
+                    "guid": {
+                        "serializedGuid": "b3af1617-598f-4395-a352-dc8665b0f0d0"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "tiny"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 2147483647,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "6f45655d-4239-443e-8548-0b7824b7e74e"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "Mine",
+                    "guid": {
+                        "serializedGuid": "6f45655d-4239-443e-8548-0b7824b7e74e"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "tiny"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 2147483647,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "3308b003-ef24-46f3-96d2-1461a0513e95"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "Go Home",
+                    "guid": {
+                        "serializedGuid": "3308b003-ef24-46f3-96d2-1461a0513e95"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "tiny"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 2147483647,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "6d28f693-e270-4300-ac3c-bdf2641ed369"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "Camp",
+                    "guid": {
+                        "serializedGuid": "6d28f693-e270-4300-ac3c-bdf2641ed369"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "tiny"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 2147483647,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "baed7bb7-5347-4134-896e-75ca6edd7025"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "Shop",
+                    "guid": {
+                        "serializedGuid": "baed7bb7-5347-4134-896e-75ca6edd7025"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "tiny"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 2147483647,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            },
+            {
+                "m_assetGUID": {
+                    "serializedGuid": "6f4103fa-a2f2-48d1-9e0c-d7b14d1070d0"
+                },
+                "m_asset": {
+                    "enabled": true,
+                    "name": "Popup test",
+                    "guid": {
+                        "serializedGuid": "6f4103fa-a2f2-48d1-9e0c-d7b14d1070d0"
+                    },
+                    "tags": [
+                        "prefabs",
+                        "tiny"
+                    ],
+                    "assetTypeString": "",
+                    "atlasIndex": 2147483647,
+                    "atlasPtrIndex": 2147483647,
+                    "assetLocation": {
+                        "serializedGuid": "757b15db-4305-4406-b767-1ec002daa769"
+                    },
+                    "assetFolder": "/Prefabs/",
+                    "isEnabled": true
+                }
+            }
+        ]
+    },
+    "UseCustomBoardSize": false
+}

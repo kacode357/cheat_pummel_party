@@ -1,0 +1,253 @@
+{
+    "Version": 0,
+    "title": "Spooky Village (English & Deutsch)",
+    "description": "Inspired by Mario Party 2 Horror Land.\nYou can find all the info about the map in the videos and screenshots.\n\nInspiriert von Mario Party 2 Horror Land.\nAlle Infos zu der Karte findet ihr in den Videos und Screenshots.",
+    "language": "English",
+    "metaData": "",
+    "visibility": 0,
+    "tags": [
+        "Board",
+        "Dark",
+        "Sunny",
+        "Colourful",
+        "Huge"
+    ],
+    "isInternal": false,
+    "previewFiles": [
+        {
+            "type": 1,
+            "path": "nWvFHc7R8c4",
+            "guid": {
+                "serializedGuid": "00000000-0000-0000-0000-000000000000"
+            }
+        },
+        {
+            "type": 1,
+            "path": "YqCbQvDjSx4",
+            "guid": {
+                "serializedGuid": "00000000-0000-0000-0000-000000000000"
+            }
+        },
+        {
+            "type": 1,
+            "path": "mYIcrfFGuKA",
+            "guid": {
+                "serializedGuid": "00000000-0000-0000-0000-000000000000"
+            }
+        },
+        {
+            "type": 1,
+            "path": "-hOeJ5aVXWQ",
+            "guid": {
+                "serializedGuid": "00000000-0000-0000-0000-000000000000"
+            }
+        },
+        {
+            "type": 1,
+            "path": "1F6g2iPOrUY",
+            "guid": {
+                "serializedGuid": "00000000-0000-0000-0000-000000000000"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "249145ad-cc51-4f16-80e5-9c42d65e7ff5"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "11b6b54b-436d-40fa-9c55-1ba1c44510a9"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "c32aaeba-8bb1-4d36-aea3-f79398b72ed5"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "a6b069b2-2413-47d5-874e-9ca568ee133f"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "12ba5da6-5a57-4bae-8cc3-58649ed9c68a"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "dd934bb4-d9f2-4640-8c39-c3935b70ccc8"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "bdc37482-ab26-4c21-b251-2de499a27649"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "fd9b3d19-378b-4664-9e8a-fe917918a91b"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "987aabe9-bc30-4f75-88d3-718f80b180df"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "3b29d7bd-6ee4-42db-8d71-33678f6a4e55"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "74b05c24-bb1e-4c68-9d2b-54a1a65c625a"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "79663118-50d6-4009-8397-591428d19e27"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "2ccb9c79-659d-4c58-9561-1e815ee78147"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "fca20857-eacc-41a1-9862-d940ec071753"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "71c5418d-a2bd-4725-a310-880ad16ff8fa"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "a8ccd622-2d45-42e6-b23d-dd179d5d729c"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "959196bf-56b1-4b77-947b-5e2fc6fb7d29"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "b2a0c65a-5ec7-4920-8806-035df5311ef9"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "73601d7b-9384-45f5-9384-fbe15cfd966c"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "edfdecdb-7c05-4f19-836a-cda9d6c381df"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "f2bd4e1e-cd15-4147-9b3c-7199df758f1d"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "157e4d75-94fd-4890-be5e-aca9eb3051a9"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "e2f0046a-1fc2-4f06-a45b-0c2be8d97252"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "aee69932-114b-4d61-b10f-a276d8916dc1"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "8b6318de-d5b3-4de7-a611-d934e5c99367"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "caa85a41-7667-4b93-a285-99595b7f8814"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "a6d103dd-fdea-40f4-8112-61ad4f9d4b1e"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "5fbfed72-2de5-4a07-8f1a-110b37b284af"
+            }
+        }
+    ],
+    "publishedFileId": 3085510187,
+    "previewImageGuid": {
+        "serializedGuid": "249145ad-cc51-4f16-80e5-9c42d65e7ff5"
+    }
+}

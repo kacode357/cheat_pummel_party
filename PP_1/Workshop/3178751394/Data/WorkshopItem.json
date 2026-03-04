@@ -1,0 +1,70 @@
+{
+    "Version": 0,
+    "title": "Lethal Party",
+    "description": "a Lethal Company Inspired Board Contain Custom Board Spaces that recreate many aspects of Lethal Company 4-8 Players Recommended Custom Audio & Icons : Zeekerss Custom Model : KomodoLegend18",
+    "language": "English",
+    "metaData": "",
+    "visibility": 0,
+    "tags": [
+        "Board",
+        "Dark",
+        "Sci-fi",
+        "Large"
+    ],
+    "isInternal": false,
+    "previewFiles": [
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "8156fb34-7ee7-4b3f-8728-9f39bef818a2"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "723882fb-cd2a-4cf2-9318-487d4426550c"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "3b96d5f8-74ca-4724-9b39-7862adc6ffb7"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "2644b447-6aa0-496d-bb78-0330b89d975e"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "fea2ed53-a3b5-495b-ab50-5343040e2348"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "bae90f68-edaa-43ee-8a3e-bac46e451e1d"
+            }
+        },
+        {
+            "type": 0,
+            "path": "",
+            "guid": {
+                "serializedGuid": "0de82ddb-a860-44a9-a2b0-4bc46b0e838f"
+            }
+        }
+    ],
+    "publishedFileId": 3178751394,
+    "previewImageGuid": {
+        "serializedGuid": "d52dae9f-8477-487a-b458-a64c84b6ef31"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "MapName": "Spooky Village",
+    "SceneName": "Default_Scene",
+    "Description": "My recommendation: 3 chests and double time.\n\nMeine Empfehlung: 3 Truhen und doppelte Zeit.",
+    "MapExtents": {
+        "serializedVersion": "2",
+        "x": -75.0,
+        "y": -80.0,
+        "width": 150.0,
+        "height": 150.0
+    },
+    "PreviewImageGuid": {
+        "serializedGuid": "249145ad-cc51-4f16-80e5-9c42d65e7ff5"
+    },
+    "OverrideSpacePrefabs": false,
+    "OverrideSpace": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "SpacePrefabOverrideGuids": [
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        }
+    ],
+    "MusicGuid": {
+        "serializedGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "MusicVol": 0.30000001192092898,
+    "AmbienceGuid": {
+        "serializedGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "AmbienceVol": 0.5,
+    "SupportsWeaponCache": true,
+    "UseCustomChestShuffleLocation": false,
+    "ChestShuffleLocation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "DefaultGoalChestCount": 1
+}

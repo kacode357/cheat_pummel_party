@@ -1,0 +1,88 @@
+{
+    "MapName": "Pummelcraft",
+    "SceneName": "Default_Scene",
+    "Description": "A Minecraft village full of surprises.\nTrade with villagers, travel through portal to find some treasures and beware with zombies and creepers.",
+    "MapExtents": {
+        "serializedVersion": "2",
+        "x": -61.84471893310547,
+        "y": -49.75502014160156,
+        "width": 92.89524841308594,
+        "height": 83.38885498046875
+    },
+    "PreviewImageGuid": {
+        "serializedGuid": "02a801f4-9abe-4120-bba1-865dbb7f8c0c"
+    },
+    "OverrideSpacePrefabs": false,
+    "OverrideSpace": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "SpacePrefabOverrideGuids": [
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        }
+    ],
+    "MusicGuid": {
+        "serializedGuid": "894fe491-e475-4c01-b8b4-9740c9ff0a83"
+    },
+    "MusicVol": 0.5509999990463257,
+    "AmbienceGuid": {
+        "serializedGuid": "00000000-0000-0000-0000-000000000000"
+    },
+    "AmbienceVol": 0.0,
+    "SupportsWeaponCache": true,
+    "UseCustomChestShuffleLocation": false,
+    "ChestShuffleLocation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "DefaultGoalChestCount": 1
+}

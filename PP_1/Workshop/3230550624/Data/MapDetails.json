@@ -1,0 +1,88 @@
+{
+    "MapName": "Ghostly Camp",
+    "SceneName": "Default_Scene",
+    "Description": "Amidst the whispering pines and veiled by ethereal mist, lies a ghostly camp where shadows dance with secrets. Haunting echoes of forgotten laughter and eerie whispers of the past linger around flickering fire pits, enticing the curious to uncover its spectral mysteries.\n\nUncover the mysteries and destroy friendships on this board with Custom Board events and Creatures.\n\nBoard by Globehater1",
+    "MapExtents": {
+        "serializedVersion": "2",
+        "x": -57.38727569580078,
+        "y": -52.256839752197269,
+        "width": 117.79054260253906,
+        "height": 111.5394058227539
+    },
+    "PreviewImageGuid": {
+        "serializedGuid": "14d40bcb-8862-4267-a63e-8b5b94c77027"
+    },
+    "OverrideSpacePrefabs": false,
+    "OverrideSpace": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "SpacePrefabOverrideGuids": [
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+            "serializedGuid": "00000000-0000-0000-0000-000000000000"
+        }
+    ],
+    "MusicGuid": {
+        "serializedGuid": "c7452596-4607-4555-acd7-67a5c6fe6ad5"
+    },
+    "MusicVol": 1.0,
+    "AmbienceGuid": {
+        "serializedGuid": "658849a8-ed72-49fd-92eb-ec14a3919b01"
+    },
+    "AmbienceVol": 0.8029999732971191,
+    "SupportsWeaponCache": true,
+    "UseCustomChestShuffleLocation": true,
+    "ChestShuffleLocation": {
+        "x": 5.448999881744385,
+        "y": 32.099998474121097,
+        "z": -27.100000381469728
+    },
+    "DefaultGoalChestCount": 1
+}
